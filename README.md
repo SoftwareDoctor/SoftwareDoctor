@@ -12,7 +12,7 @@ Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il lo
 
 
 ## 🛠 Skills
-Java, Javascript, HTML, CSS, Python, SQL, T-SQL
+Java, Javascript, Angular, HTML, CSS, Python, SQL, T-SQL, Docker, AWS
 
 
 ## Curiosità su di me
