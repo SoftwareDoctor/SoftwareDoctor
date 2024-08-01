@@ -1,7 +1,8 @@
 ## 🚀 Ciao, io sono Andrea Italiano 👋
-Sono un Junior Full Stack Developer che ama progettare, creare e imparare del coding ogni suo segreto!
-Il mio è un percorso variegato e ricco di sfumature esperienziali nell'analisi funzionale e tecnica e nel software testing. Sono anche uno psicologo specializzato in HR ed esattamente nella formazione, selezione e politiche attive del lavoro.
-Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il loro obiettivo professionale.
+Sono un Junior Backend Developer e talvolta mi diletto con Angular. Mi piace progettare, creare e imparare del coding ogni suo segreto!
+Il mio è un percorso variegato e ricco di sfumature esperienziali nel mondo informatico dall'analisi tecnico-funzionale al software testing fino ad arrivare oggi alla programmazione. 
+Sono anche uno psicologo del lavoro specializzato in HR ed esattamente nella formazione, selezione e politiche attive del lavoro.
+Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il loro obiettivo professionale e come trainer in ambito informatico. 
 
 
 
