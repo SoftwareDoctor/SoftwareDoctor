@@ -1,7 +1,6 @@
 ## 🚀 Ciao, io sono Andrea Italiano 👋
-Sono un Junior Backend Developer e talvolta mi diletto con Angular. Mi piace progettare, creare e imparare del coding ogni suo segreto!
+Sono un Junior Backend Developer certificato ISIPM Project Management, AWS Cloud Practitioner e AI Practitioner e appassionato del mondo Cloud in AWS. Mi piace progettare, creare e imparare del coding ogni suo segreto!
 Il mio è un percorso variegato e ricco di sfumature esperienziali nel mondo informatico dall'analisi tecnico-funzionale al software testing fino ad arrivare oggi alla programmazione. 
-Sono anche uno psicologo del lavoro specializzato in HR ed esattamente nella formazione, selezione e politiche attive del lavoro.
 Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il loro obiettivo professionale e come trainer in ambito informatico. 
 
 
@@ -13,7 +12,7 @@ Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il lo
 
 
 ## 🛠 Skills
-Java, Angular, HTML, CSS, Python, SQL, T-SQL, Docker, AWS
+Java, Spring Boot, Quarkus, SQL, Docker, AWS, Kafka
 
 
 ## Curiosità su di me
@@ -21,7 +20,7 @@ Java, Angular, HTML, CSS, Python, SQL, T-SQL, Docker, AWS
 
 🧠 Non vi è mai una giornata in cui non imparo
 
-👯‍♀️ Sto insegnando informatica base e coding
+👯‍♀️ Sono appassionato del mondo AI 
 
 📫 Contattami qui: andrea_italiano87@yahoo.com &nbsp; <a href="mailto:andrea_italiano87@yahoo.com"><img src="img.png" width="20"/></a>
 
