@@ -7,7 +7,7 @@ Nel tempo libero lavoro come Career Coach per aiutare le persone a trovare il lo
 
 <hr style="height: 0.25em"/>
 <br>
-<p><img src="https://i.postimg.cc/XJCFTV93/avatar-removebg-preview.png" align="right" style="max-width: 100%; display: inline-block;">
+<p><img src="https://i.postimg.cc/gjzmSnJY/Gemini-Generated-Image-oarzssoarzssoarz.png" align="right" style="max-width: 100%; display: inline-block;">
 </p>
 
 
